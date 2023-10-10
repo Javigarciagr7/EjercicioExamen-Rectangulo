@@ -16,8 +16,19 @@ label {
     font-weight: bold;
 }
 
-input {
-    padding: 5px;
+.input-container {
+    display: flex; 
+    align-items: center; 
+    margin-bottom: 10px; 
+    max-width: 300px; 
+    margin-left: 555px;
+    margin-top: 10px
+}
+
+.input-container label {
+    width: 100px;
+    text-align: right; 
+    margin-right:10px; 
 }
 
 button {
