@@ -1,5 +1,5 @@
 // JAVIER GARCÍA
-// 
+// https://github.com/Javigarciagr7/EjercicioExamen-Rectangulo.git
 
 // Primero, que se cargue todo el HTML y el CSS.
 document.addEventListener("DOMContentLoaded", () => {
